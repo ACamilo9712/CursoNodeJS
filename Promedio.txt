@@ -1,0 +1,2 @@
+El nombre del parcero es: Juan
+y el promedio del parcero es: 4.266666666666667
